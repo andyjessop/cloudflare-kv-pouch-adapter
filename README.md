@@ -102,10 +102,6 @@ The `CloudflareKVMap` class implements the `AsyncMap` interface and provides the
 - **`set(key: K, value: V): Promise<void>`**: Sets a key-value pair in the map.
 - **`size(): Promise<number>`**: Retrieves the number of key-value pairs in the map.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-repo/kv-pouch).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
